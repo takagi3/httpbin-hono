@@ -1,0 +1,24 @@
+{
+	"$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+	"words": [
+		"cnonce",
+		"congruential",
+		"conv",
+		"esbuild",
+		"hono",
+		"kennethreitz",
+		"moby",
+		"naas",
+		"nakano",
+		"nakanoasaservice",
+		"nostale",
+		"numbytes",
+		"postmanlabs",
+		"randint",
+		"reitz",
+		"semiflatten",
+		"subrequests",
+		"webp",
+		"workerd"
+	]
+}
